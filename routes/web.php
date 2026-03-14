@@ -1,0 +1,109 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PagesController;
+use App\Http\Controllers\HomeController;
+
+
+Route::get('/', [HomeController::class, 'index3_one_page'])
+    ->name('index');
+
+Route::get('/index-one-page', [HomeController::class, 'index_one_page'])
+    ->name('index-one-page');
+
+Route::get('/index2', [HomeController::class, 'index2'])
+    ->name('index2');
+
+Route::get('/index2-one-page', [HomeController::class, 'index2_one_page'])
+    ->name('index2-one-page');
+
+Route::get('/index3', [HomeController::class, 'index3'])
+    ->name('index3');
+
+Route::get('/index3-one-page', [HomeController::class, 'index3_one_page'])
+    ->name('index3-one-page');
+
+Route::get('/index-dark', [HomeController::class, 'index_dark'])
+    ->name('index-dark');
+
+Route::get('/about', [PagesController::class, 'about'])
+    ->name('about');
+
+Route::get('/services', [PagesController::class, 'services'])
+    ->name('services');
+
+Route::get('/drivers', [PagesController::class, 'drivers'])
+    ->name('drivers');
+
+Route::get('/driver-details', [PagesController::class, 'driver_details'])
+    ->name('driver-details');
+
+Route::get('/testimonials', [PagesController::class, 'testimonials'])
+    ->name('testimonials');
+
+Route::get('/pricing', [PagesController::class, 'pricing'])
+    ->name('pricing');
+
+Route::get('/faq', [PagesController::class, 'faq'])
+    ->name('faq');
+
+Route::get('/404', [PagesController::class, 'notFound'])
+    ->name('404');
+
+Route::get('/cars', [PagesController::class, 'cars'])
+    ->name('cars');
+
+Route::get('/car-list-v-1', [PagesController::class, 'car_list_v_1'])
+    ->name('car-list-v-1');
+
+Route::get('/car-list-v-2', [PagesController::class, 'car_list_v_2'])
+    ->name('car-list-v-2');
+
+Route::get('/car-list-v-3', [PagesController::class, 'car_list_v_3'])
+    ->name('car-list-v-3');
+
+Route::get('/listing-single', [PagesController::class, 'listing_single'])
+    ->name('listing-single');
+
+Route::get('/products', [PagesController::class, 'products'])
+    ->name('products');
+
+Route::get('/product-details', [PagesController::class, 'product_details'])
+    ->name('product-details');
+
+Route::get('/cart', [PagesController::class, 'cart'])
+    ->name('cart');
+
+Route::get('/checkout', [PagesController::class, 'checkout'])
+    ->name('checkout');
+
+Route::get('/wishlist', [PagesController::class, 'wishlist'])
+    ->name('wishlist');
+
+Route::get('/sign-up', [PagesController::class, 'sign_up'])
+    ->name('sign-up');
+
+Route::get('/login', [PagesController::class, 'login'])
+    ->name('login');
+
+Route::get('/blog', [PagesController::class, 'blog'])
+    ->name('blog');
+
+Route::get('/blog-standard', [PagesController::class, 'blog_standard'])
+    ->name('blog-standard');
+
+Route::get('/blog-left-sidebar', [PagesController::class, 'blog_left_sidebar'])
+    ->name('blog-left-sidebar');
+
+Route::get('/blog-right-sidebar', [PagesController::class, 'blog_right_sidebar'])
+    ->name('blog-right-sidebar');
+
+Route::get('/blog-details', [PagesController::class, 'blog_details'])
+    ->name('blog-details');
+
+Route::get('/contact', [PagesController::class, 'contact'])
+    ->name('contact');
+
+Route::fallback(function () {
+    return view('pages.404');
+});
