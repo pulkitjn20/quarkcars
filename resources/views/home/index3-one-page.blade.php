@@ -500,10 +500,9 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                             <span class="icon-taxi"></span>
                         </div>
                         <div class="services-three__content">
-                            <h3 class="services-three__title"><a href="{{ route('services') }}">Car rental with
-                                    driver</a>
+                            <h3 class="services-three__title"><a href="{{ route('services') }}">Car Sharing</a>
                             </h3>
-                            <p class="services-three__text">Professional chauffeur-driven car rental for a comfortable and stress-free journey.</p>
+                            <p class="services-three__text">Earn consistently by sharing your car through a trusted and managed platform.</p>
                         </div>
                         <div class="services-three__count"></div>
                     </div>
@@ -798,7 +797,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                 <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-3-2.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-3-2(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Maruti</p>
                             </div>
@@ -874,7 +873,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                 <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-3-3.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-3-3(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Maruti</p>
                             </div>
@@ -950,7 +949,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                 <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-3-4.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-3-4(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Mahindra</p>
                             </div>
@@ -1026,7 +1025,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                 <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-3-5.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-3-5(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Mahindra</p>
                             </div>
@@ -1102,7 +1101,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                 <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-1-6.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-3-6(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Hyundai</p>
                             </div>
@@ -1177,7 +1176,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                 <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-1-6.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-1-6(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Hyundai</p>
                             </div>
@@ -1252,7 +1251,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                  <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-1-6.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-1-7(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Hyundai</p>
                             </div>
@@ -1327,7 +1326,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                 <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-1-6.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-1-8(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Maruti</p>
                             </div>
@@ -1402,7 +1401,7 @@ With a strong focus on customer satisfaction and seamless booking, it ensures a 
                 <div class="item">
                     <div class="listing-three__single">
                         <div class="listing-three__img">
-                            <img src="{{ asset('assets/images/listing/listing-1-6.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/listing/listing-1-9(1).png') }}" alt="">
                             <div class="listing-three__brand-name">
                                 <p>Hyundai</p>
                             </div>

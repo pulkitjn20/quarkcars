@@ -37,8 +37,8 @@
         <ul class="shadow-box">
              <li><a href="{{ route('cars') }}">Car Subscription</a></li>
             <li><a href="{{ route('self-drive-car') }}">Self Drive Car</a></li>
-            <li><a href="{{ route('car-list-v-2') }}">Car Listing V-2</a></li>
-            <li><a href="{{ route('car-list-v-3') }}">Car Listing V-3</a></li>
+            <li><a href="{{ route('car-list-v-2') }}">Car Sharing</a></li>
+            <li><a href="{{ route('car-list-v-3') }}">Taxi Service</a></li>
             <!-- <li><a href="{{ route('listing-single') }}">Car Listing Single</a></li> -->
         </ul>
     </li>

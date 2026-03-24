@@ -14,30 +14,30 @@
             <div class="listing-single__top">
                 <div class="listing-single__top-left">
                     <h3 class="listing-single__title">Maruti Swift VXI (O) CNG</h3>
-                    <p class="listing-single__sub-title">4.0 D5 PowerPulse Momentum 5dr AWD Geartronic Estate</p>
+                    <p class="listing-single__sub-title">1.2L VXI (O) CNG 5dr FWD Manual Hatchback</p>
                     <div class="listing-single__car-details-box">
                         <ul class="list-unstyled listing-single__car-details">
                             <li>
                                 <span class="icon-date"></span>
-                                <p>2025</p>
+                                <p>2023</p>
                             </li>
                             <li>
                                 <span class="icon-mileage"></span>
-                                <p>80 Miles</p>
+                                <p>25,000 KM</p>
                             </li>
                             <li>
                                 <span class="icon-Carrier"></span>
-                                <p>Automatic</p>
+                                <p>Manual</p>
                             </li>
                             <li>
                                 <span class="icon-fuel-type"></span>
-                                <p>Petrol</p>
+                                <p>CNG</p>
                             </li>
                         </ul>
                         <ul class="list-unstyled listing-single__car-details">
                             <li>
                                 <span class="icon-seat"></span>
-                                <p>7 seats</p>
+                                <p>5 Seats</p>
                             </li>
                             <li>
                                 <span class="icon-door"></span>
@@ -45,11 +45,11 @@
                             </li>
                             <li>
                                 <span class="icon-fuel-type"></span>
-                                <p>2.5L</p>
+                                <p>1.2L</p>
                             </li>
                             <li>
                                 <span class="icon-car-insurance"></span>
-                                <p>3 Large bags</p>
+                                <p>2 Large bags</p>
                             </li>
                         </ul>
                     </div>
@@ -81,26 +81,22 @@
                                         <div class="col-xl-5 col-lg-5">
                                             <div class="listing-single__left">
                                                 <div class="listing-single__img">
-                                                    <img src="{{ asset('assets/images/listing/listing-single-1-1.jpg') }}"
+                                                    <img src="{{ asset('assets/images/listing/listing-single-1-1(1).png') }}"
                                                         alt="">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-xl-7 col-lg-7">
                                             <div class="listing-single__right">
-                                                <h3 class="listing-single__title-two">2025 Toyota Corolla Preview
-                                                    What's Coming Next Car</h3>
-                                                <p class="listing-single__text">The Toyota Corolla Hybrid is the
-                                                    high-performance
-                                                    version of the 2 Series 2-door coupé. The first generation of
-                                                    the M2 is the F87 coupé and is powered by turbocharged.</p>
+                                                <h3 class="listing-single__title-two">Maruti Swift VXI (O) CNG – Features, Mileage & City Drive Performance</h3>
+                                                <p class="listing-single__text">The Maruti Swift VXI (O) CNG is a smart and fuel-efficient hatchback designed for everyday driving and budget-conscious travelers. Known for its reliable performance and low running cost, this CNG variant of the Swift offers a perfect balance of comfort, practicality, and economy.</p>
                                                 <ul class="list-unstyled listing-single__meta">
                                                     <li>
                                                         <div class="icon">
                                                             <span class="fas fa-map-marker-alt"></span>
                                                         </div>
                                                         <div class="text">
-                                                            <p>Las Vegas, USA</p>
+                                                            <p>Jaipur, India</p>
                                                         </div>
                                                     </li>
                                                     <li>
@@ -116,7 +112,7 @@
                                                             <span class="fas fa-map"></span>
                                                         </div>
                                                         <div class="text">
-                                                            <p>Fleet Code:<a href="#"><span>BMW-4525</span></a></p>
+                                                            <p>Fleet Code:<a href="#"><span>QC-SWIFT-CNG-01</span></a></p>
                                                         </div>
                                                     </li>
                                                 </ul>
@@ -135,6 +131,7 @@
                                                         </a>
                                                         <h4 class="listing-single__video-title">Watch Video</h4>
                                                     </div>
+                                                    <br> 
                                                 </div>
                                             </div>
                                         </div>
@@ -147,7 +144,7 @@
                                         <div class="col-xl-5 col-lg-5">
                                             <div class="listing-single__left">
                                                 <div class="listing-single__img">
-                                                    <img src="{{ asset('assets/images/listing/listing-single-1-2.jpg') }}"
+                                                    <img src="{{ asset('assets/images/listing/listing-single-1-2(1).png') }}"
                                                         alt="">
                                                 </div>
                                             </div>
@@ -213,7 +210,7 @@
                                         <div class="col-xl-5 col-lg-5">
                                             <div class="listing-single__left">
                                                 <div class="listing-single__img">
-                                                    <img src="{{ asset('assets/images/listing/listing-single-1-3.jpg') }}"
+                                                    <img src="{{ asset('assets/images/listing/listing-single-1-3(1).png') }}"
                                                         alt="">
                                                 </div>
                                             </div>
@@ -291,21 +288,21 @@
                             <div class="swiper-slide">
                                 <div class="listing-single__img-holder-box">
                                     <div class="listing-single__img-holder">
-                                        <img src="{{ asset('assets/images/listing/listing-single-thamb-1-1.jpg') }}" alt="">
+                                        <img src="{{ asset('assets/images/listing/listing-single-thamb-1-1(1).png') }}" alt="">
                                     </div>
                                 </div>
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
                                 <div class="listing-single__img-holder-box">
                                     <div class="listing-single__img-holder">
-                                        <img src="{{ asset('assets/images/listing/listing-single-thamb-1-2.jpg') }}" alt="">
+                                        <img src="{{ asset('assets/images/listing/listing-single-thamb-1-2(1).png') }}" alt="">
                                     </div>
                                 </div>
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
                                 <div class="listing-single__img-holder-box">
                                     <div class="listing-single__img-holder">
-                                        <img src="{{ asset('assets/images/listing/listing-single-thamb-1-3.jpg') }}" alt="">
+                                        <img src="{{ asset('assets/images/listing/listing-single-thamb-1-3(1).png') }}" alt="">
                                     </div>
                                 </div>
                             </div><!-- /.swiper-slide -->
