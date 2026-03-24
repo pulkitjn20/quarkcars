@@ -56,11 +56,11 @@ Route::get('/cars', [PagesController::class, 'car_subscription'])
 Route::get('/self-drive-car', [PagesController::class, 'self_drive_car'])
     ->name('self-drive-car');
 
-Route::get('/car-list-v-2', [PagesController::class, 'car_list_v_2'])
-    ->name('car-list-v-2');
+Route::get('/car-sharing', [PagesController::class, 'car_list_v_2'])
+    ->name('car-sharing');
 
-Route::get('/car-list-v-3', [PagesController::class, 'car_list_v_3'])
-    ->name('car-list-v-3');
+Route::get('/taxi-services', [PagesController::class, 'car_list_v_3'])
+    ->name('taxi-services');
 
 Route::get('/listing-single', [PagesController::class, 'listing_single'])
     ->name('listing-single');

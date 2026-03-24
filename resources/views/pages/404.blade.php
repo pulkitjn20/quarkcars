@@ -1,5 +1,5 @@
 @extends('layouts.layoutCommon')
-@section('title', '404 Error || Gorent || Gorent Laravel Template')
+@section('title', '404 Error')
 
 @section('content')
 

@@ -1,9 +1,9 @@
 @extends('layouts.layoutCommon')
-@section('title', 'Car List V-2 || Gorent || Gorent Laravel  Template')
+@section('title', 'Car Sharing || Gorent || Gorent Laravel  Template')
 
 @section('content')
 
-    <x-pageHeader title="Car List V-2" subtitle="Car List V-2" />
+    <x-pageHeader title="Car Sharing" subtitle="Car Sharing" />
 
     <!--Car Listing page One Start -->
     <section class="car-listing-page-two">

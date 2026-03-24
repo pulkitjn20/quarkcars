@@ -213,10 +213,10 @@
                     <div class="pricing-two__single">
                         <div class="pricing-two__left-content">
                             <div class="pricing-two__img reveal">
-                                <img src="{{ asset('assets/images/resources/pricing-2-1.png') }}" alt="">
+                                <img src="{{ asset('assets/images/resources/pricing-2-1.jpeg') }}" alt="">
                             </div>
                             <div class="pricing-two__img-content">
-                                <h3 class="pricing-two__title">Basic</h3>
+                                <h3 class="pricing-two__title">Gold Pack</h3>
                                 <h2 class="pricing-two__price-box">4999 INR<span> /year</span></h2>
                             </div>
                         </div>
@@ -290,10 +290,10 @@
                     <div class="pricing-two__single">
                         <div class="pricing-two__left-content">
                             <div class="pricing-two__img reveal">
-                                <img src="{{ asset('assets/images/resources/pricing-2-2.png') }}" alt="">
+                                <img src="{{ asset('assets/images/resources/pricing-2-2.jpeg') }}" alt="">
                             </div>
                             <div class="pricing-two__img-content">
-                                <h3 class="pricing-two__title">Standard</h3>
+                                <h3 class="pricing-two__title">Smart Pack</h3>
                                 <h2 class="pricing-two__price-box">9999 INR <span> /year</span></h2>
                             </div>
                         </div>
@@ -368,10 +368,10 @@
                     <div class="pricing-two__single">
                         <div class="pricing-two__left-content">
                             <div class="pricing-two__img reveal">
-                                <img src="{{ asset('assets/images/resources/pricing-2-3.png') }}" alt="">
+                                <img src="{{ asset('assets/images/resources/pricing-2-3.jpeg') }}" alt="">
                             </div>
                             <div class="pricing-two__img-content">
-                                <h3 class="pricing-two__title">Premium</h3>
+                                <h3 class="pricing-two__title">Premium Pack</h3>
                                 <h2 class="pricing-two__price-box">14999 INR <span>/year</span></h2>
                             </div>
                         </div>

@@ -1,5 +1,5 @@
 @extends('layouts.layoutCommon')
-@section('title', 'About Us || Gorent || Gorent Laravel  Template')
+@section('title', 'About Us')
 
 @section('content')
 
@@ -3925,7 +3925,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-1.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-1(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -3946,7 +3946,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-2.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-2(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -3967,7 +3967,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-3.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-3(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -3988,7 +3988,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-4.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-4(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -4036,7 +4036,7 @@
                             <span class="icon-quote"></span>
                         </div>
                         <div class="testimonial-two__img">
-                            <img src="{{ asset('assets/images/testimonial/testimonial-2-1.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial/testimonial-2-1(1).png') }}" alt="">
                         </div>
                         <p class="testimonial-two__text">“One of the best car rental in jaipur at good affordable price. Security deposit refund was also hassle free and instant. We rented thar and it was new and in very good condition. And to add to it the owner was very friendly and had good response”</p>
                         <div class="testimonial-two__client-info">
@@ -4067,7 +4067,7 @@
                             <span class="icon-quote"></span>
                         </div>
                         <div class="testimonial-two__img">
-                            <img src="{{ asset('assets/images/testimonial/testimonial-2-2.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial/testimonial-2-2(1).png') }}" alt="">
                         </div>
                         <p class="testimonial-two__text">Nice services great hospitality specially Dipak Ji very helping person I’ve rented grand I10 this month the car condition is excellent keep it up 👍🏻 …</p>
                         <div class="testimonial-two__client-info">
@@ -4103,7 +4103,7 @@
                             <span class="icon-quote"></span>
                         </div>
                         <div class="testimonial-two__img">
-                            <img src="{{ asset('assets/images/testimonial/testimonial-2-3.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial/testimonial-2-3(1).png') }}" alt="">
                         </div>
                         <p class="testimonial-two__text">Nice enlightened service both the dealer and car owners were so good. The car was brand new and the price point was also the lowest...Thanks to them and will recommend you guys to get a service from here.</p>
                         <div class="testimonial-two__client-info">
@@ -4137,7 +4137,7 @@
                             <span class="icon-quote"></span>
                         </div>
                         <div class="testimonial-two__img">
-                            <img src="{{ asset('assets/images/testimonial/testimonial-2-4.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial/testimonial-2-4(1).jpg') }}" alt="">
                         </div>
                         <p class="testimonial-two__text">Had a great experience with a self-drive car rental in Jaipur. The car was clean, well-maintained, and the process was smooth from pickup to drop.
                         Deepak, the contact person, was very kind and helpful throughout. Highly recommended for a hassle-free trip..!</p>
@@ -4167,7 +4167,7 @@
                             <span class="icon-quote"></span>
                         </div>
                         <div class="testimonial-two__img">
-                            <img src="{{ asset('assets/images/testimonial/testimonial-2-5.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial/testimonial-2-5(1).jpg') }}" alt="">
                         </div>
                         <p class="testimonial-two__text">Affordable, reliable, and professional — that’s how I would describe Quarkcars. The team ensures complete customer satisfaction and makes the rental process very simple. Whether you need a short-term or long-term rental, they are the best car rental agency in Jaipur.</p>
                         <div class="testimonial-two__client-info">
@@ -4196,7 +4196,7 @@
                             <span class="icon-quote"></span>
                         </div>
                         <div class="testimonial-two__img">
-                            <img src="{{ asset('assets/images/testimonial/testimonial-2-6.jpg') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial/testimonial-2-6(1).jpg') }}" alt="">
                         </div>
                         <p class="testimonial-two__text">I had an amazing experience with Quarkcars – Mobility in Jaipur. The car was super clean, well-maintained, and delivered exactly on time. The booking process was very smooth and transparent with no hidden charges. Their team was professional and polite throughout. If you are looking for a reliable self-drive car rental in Jaipur, this is the best choice. Highly recommended!</p>
                         <div class="testimonial-two__client-info">

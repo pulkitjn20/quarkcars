@@ -17,7 +17,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-1.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-1(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -27,7 +27,7 @@
                             </div>
                         </div>
                         <div class="team-three__content">
-                            <h3 class="team-three__name"><a href="{{ route('driver-details') }}">Jessica Brown</a></h3>
+                            <h3 class="team-three__name"><a href="{{ route('driver-details') }}">Rishab Rai</a></h3>
                             <p class="team-three__sub-title">SR. Driver</p>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-2.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-2(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -48,7 +48,7 @@
                             </div>
                         </div>
                         <div class="team-three__content">
-                            <h3 class="team-three__name"><a href="{{ route('driver-details') }}">James Fuller</a></h3>
+                            <h3 class="team-three__name"><a href="{{ route('driver-details') }}">Namo Narayan</a></h3>
                             <p class="team-three__sub-title">Premium Driver</p>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-3.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-3(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -69,7 +69,7 @@
                             </div>
                         </div>
                         <div class="team-three__content">
-                            <h3 class="team-three__name"><a href="{{ route('driver-details') }}">Jasmet Mangat</a></h3>
+                            <h3 class="team-three__name"><a href="{{ route('driver-details') }}">Ankur Vaishnav</a></h3>
                             <p class="team-three__sub-title">JR. Driver</p>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-4.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-4(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -90,7 +90,7 @@
                             </div>
                         </div>
                         <div class="team-three__content">
-                            <h3 class="team-three__name"><a href="{{ route('driver-details') }}">Tim Southe</a></h3>
+                            <h3 class="team-three__name"><a href="{{ route('driver-details') }}">Shree Ram Meena</a></h3>
                             <p class="team-three__sub-title">SR. Driver</p>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-5.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-5(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -122,7 +122,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-6.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-6(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -143,7 +143,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-7.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-7(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>
@@ -164,7 +164,7 @@
                     <div class="team-three__single">
                         <div class="team-three__img-box">
                             <div class="team-three__img">
-                                <img src="{{ asset('assets/images/team/team-3-8.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-3-8(1).jpg') }}" alt="">
                                 <div class="team-three__social">
                                     <a href="{{ route('driver-details') }}"><i class="icon-facebook"></i></a>
                                     <a href="{{ route('driver-details') }}"><i class="icon-twitter"></i></a>

@@ -1,5 +1,5 @@
-@extends('layouts.layout3onepage')
-@section('title', 'Home Three || Gorent || Gorent Laravel  Template')
+@extends('layouts.layoutCommon')
+@section('title', 'Home')
 
 @section('content')
 

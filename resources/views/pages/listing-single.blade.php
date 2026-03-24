@@ -60,15 +60,15 @@
                         <a href="#">Save <span class="icon-bookmark"></span> </a>
                         <a href="#">Compare <span class="icon-compress"></span> </a>
                     </div>
-                    <h2 class="listing-single__price">$150,000</h2>
-                    <div class="listing-single__offer-price">
+                    <!-- <h2 class="listing-single__price">$150,000</h2> -->
+                    <!-- <div class="listing-single__offer-price">
                         <div class="icon">
                             <span class="icon-tag-2"></span>
                         </div>
                         <div class="text">
                             <p>Make An Offer Price</p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="listing-single__inner">

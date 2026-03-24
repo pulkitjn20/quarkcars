@@ -16,7 +16,7 @@
                     <div class="col-xl-5 col-lg-5">
                         <div class="team-details__top-left">
                             <div class="team-details__img-1">
-                                <img src="{{ asset('assets/images/team/team-details-img-1.jpg') }}" alt="">
+                                <img src="{{ asset('assets/images/team/team-details-img-1(1).jpg') }}" alt="">
                             </div>
                         </div>
                     </div>

@@ -53,17 +53,17 @@ class PagesController extends Controller
 
     public function self_drive_car()
     {
-        return view('pages.car-list-v-1');
+        return view('pages.self-drive-car');
     }
 
     public function car_list_v_2()
     {
-        return view('pages.car-list-v-2');
+        return view('pages.car-sharing');
     }
 
     public function car_list_v_3()
     {
-        return view('pages.car-list-v-3');
+        return view('pages.taxi-services');
     }
 
     public function listing_single()

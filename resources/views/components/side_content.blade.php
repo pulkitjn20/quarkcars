@@ -51,7 +51,7 @@
                                 </li>
                                 <li>
                                     <span class="icon-envelope"></span>
-                                    <a href="mailto:info@quarkcars.com">info@example.com</a>
+                                    <a href="mailto:info@quarkcars.com">info@quarkcars.com</a>
                                 </li>
                             </ul>
                         </div>
